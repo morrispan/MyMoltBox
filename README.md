@@ -109,3 +109,12 @@ MyMoltBox/
   - 時間戳格式
   - 回應設置
   - 對話要求
+
+## 天氣提醒功能
+
+項目包含上海天氣查詢功能：
+
+- `scripts/getShanghaiWeather.js` - 獲取上海實時天氣信息
+- `WEATHER_REMINDER_SETUP.md` - 每小時天氣提醒設置指南
+
+要設置每小時天氣提醒，請參閱 WEATHER_REMINDER_SETUP.md 中的說明。
